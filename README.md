@@ -77,10 +77,3 @@ The script uses `set -e`, which means it will exit immediately if any command fa
 - Always backup your original tarball before making modifications
 - Verify modifications before rebuilding the distribution
 
-## License
-
-[Include your project's license information here]
-
-## Contributing
-
-Contributions and improvements to the script are welcome. Please submit pull requests or issues to the project repository.
