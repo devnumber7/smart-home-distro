@@ -21,11 +21,6 @@ The `os_mod_helper.sh` is a Bash script designed to assist in building, extracti
 - **Rebuild Tarball:** Recreate the tarball after making modifications
 - **Modification Instructions:** Provide guidance on how to modify the distribution
 
-## Prerequisites
-
-- Bash shell
-- Basic Linux command-line knowledge
-- `tar` utility
 
 ## Usage
 
