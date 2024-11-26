@@ -1,5 +1,6 @@
-# smart-home-distro
+# smart-home-distro (CURRENTLY UNDER PROGRESS) 
 Customized operating system, tailored towards smart home systems based on Debian Linux
+
 
 
 ### Reassembling the File
